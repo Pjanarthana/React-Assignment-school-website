@@ -42,7 +42,7 @@ This assignment is a complete, certainly beneficial, and responsive net web site
     
     ```
     
-four. Start the development server:
+   four. Start the development server:
     
     ```
     npm begin
@@ -119,7 +119,7 @@ The assignment makes use of Redux Toolkit for u . S . A . Manipulate, drasticall
 
 ## Deployment
 
-The Project Is Deployed In Netlify 
+The Project Is Deployed In Netlify.The Link is https://app.netlify.com/sites/springdale-public-school/deploys/66a13d5c041791128f150270
 
 ## Accessibility
 
